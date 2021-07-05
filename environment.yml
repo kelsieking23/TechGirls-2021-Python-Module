@@ -1,9 +1,4 @@
 name: TechGirls-2021-Env
 
 dependencies:
-  - ipython=7.13
-  - matplotlib=3.1
-  - pandas=1.0
-  - pip=20.0
-  - python=3.6
-  - scikit-learn=0.22
+  - pandas
